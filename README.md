@@ -17,7 +17,7 @@ I use this space to practice coding, build projects, and strengthen my fundament
 ---
 
 ## 🧰 Skills & Technologies
-- **Languages:** C, C++, Java, Python, SQL  
+- **Languages:** C, C++, Python, SQL  
 - **Databases:** MySQL  
 - **Concepts:**  
   - Data Structures & Algorithms  
