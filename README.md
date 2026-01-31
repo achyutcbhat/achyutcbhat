@@ -49,7 +49,7 @@ I believe in *learning by doing*, so most repositories focus on clarity and fund
 
 ---
 ## ✨ Motto
-> *Consistency beats talent when talent isn’t consistent.*
+> *Expect the Unexpected*
 
 Thanks for visiting! ⭐  
 Feel free to explore my repositories and connect with me.
