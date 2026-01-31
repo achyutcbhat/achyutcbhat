@@ -48,12 +48,6 @@ I believe in *learning by doing*, so most repositories focus on clarity and fund
   https://www.hackerrank.com/profile/achyutbhat5  
 
 ---
-
-## 📊 GitHub Stats
-![Achyut's GitHub stats](https://github-readme-stats.vercel.app/api?username=achyutcbhat&show_icons=true&theme=tokyonight)
-
----
-
 ## ✨ Motto
 > *Consistency beats talent when talent isn’t consistent.*
 
